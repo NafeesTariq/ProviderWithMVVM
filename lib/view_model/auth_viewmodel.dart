@@ -47,7 +47,7 @@ class AuthViewModel with ChangeNotifier {
     setsignUpLoading(true);
     _myrepo.SignUpApi(data).then((value) {
       setsignUpLoading(false);
-      Utils.flushBarErrorMessage("Sign Up Successful", context);
+      Utils.flushBarSuccessfulMessage("Sign Up Successful", context);
       print("Signup Successful");
       //Navigator.pushNamed(context, RoutesName.home);
 
