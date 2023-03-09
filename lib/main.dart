@@ -4,10 +4,8 @@ import 'package:mvvm_project/resources/components/countrypicker.dart';
 import 'package:mvvm_project/utils/routes/rotes_named.dart';
 import 'package:mvvm_project/utils/routes/routes.dart';
 import 'package:mvvm_project/view_model/auth_viewmodel.dart';
-import 'package:mvvm_project/views/Screens/login_view.dart';
-import 'package:mvvm_project/views/Screens/otpLogin.dart';
-import 'package:mvvm_project/views/Screens/stackScreen.dart';
 
+import 'package:mvvm_project/views/Screens/otpLogin.dart';
 import 'package:provider/provider.dart';
 
 void main() {
