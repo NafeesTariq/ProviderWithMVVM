@@ -1,0 +1,13 @@
+com.example.mvvm_project.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Az\.gradle\caches\transforms-3\1bc5e7a4cb5d5d6adffa24beea861a6f\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.mvvm_project.app-jetified-window-1.0.0-beta04-1 C:\Users\Az\.gradle\caches\transforms-3\507a99527fb2bd75eac55ef35ecba0e4\transformed\jetified-window-1.0.0-beta04\res
+com.example.mvvm_project.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Az\.gradle\caches\transforms-3\ade159152016ebc7bc917b6fd767c4b4\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.mvvm_project.app-core-1.6.0-3 C:\Users\Az\.gradle\caches\transforms-3\de4b94f201d4595b394ca7440c77da1b\transformed\core-1.6.0\res
+com.example.mvvm_project.app-debug-4 C:\Users\Az\Music\OnlineShopey\OnlineShopey\android\app\src\debug\res
+com.example.mvvm_project.app-main-5 C:\Users\Az\Music\OnlineShopey\OnlineShopey\android\app\src\main\res
+com.example.mvvm_project.app-pngs-6 C:\Users\Az\Music\OnlineShopey\OnlineShopey\build\app\generated\res\pngs\debug
+com.example.mvvm_project.app-resValues-7 C:\Users\Az\Music\OnlineShopey\OnlineShopey\build\app\generated\res\resValues\debug
+com.example.mvvm_project.app-rs-8 C:\Users\Az\Music\OnlineShopey\OnlineShopey\build\app\generated\res\rs\debug
+com.example.mvvm_project.app-mergeDebugResources-9 C:\Users\Az\Music\OnlineShopey\OnlineShopey\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.mvvm_project.app-mergeDebugResources-10 C:\Users\Az\Music\OnlineShopey\OnlineShopey\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.mvvm_project.app-merged_res-11 C:\Users\Az\Music\OnlineShopey\OnlineShopey\build\app\intermediates\merged_res\debug
+com.example.mvvm_project.app-packaged_res-12 C:\Users\Az\Music\OnlineShopey\OnlineShopey\build\fluttertoast\intermediates\packaged_res\debug
